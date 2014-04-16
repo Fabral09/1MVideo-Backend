@@ -156,7 +156,7 @@ sub Main
 {
  print( "\n\nPROCEDURA AVVIATA!\n\n" );
  # Effettuo la connessione con MySQL
- $connMySQL = DBI->connect('DBI:mysql:1mvideo', 'root', 'kindra_rain' ) or die( "IMPOSSIBILE COLLEGARSI AL DB!\n" ); 
+ $connMySQL = DBI->connect('DBI:mysql:1mvideo', 'root', 'your_password' ) or die( "IMPOSSIBILE COLLEGARSI AL DB!\n" ); 
  RecuperoElencoFileM();
  ScansioneFilesM();
  # Chiudo la connessione
