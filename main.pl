@@ -3,7 +3,7 @@
 ###############################################################################
 # Nome: main.pl
 #
-# Autore: Fabrizio Alonzi
+# Autore: Fabrizio Alonzi - Fabral09
 #
 # Descrizione: Contiene lo script per l'assegnazione degli extended attributes
 # ai file video e la loro memorizzazione all'interno del db
